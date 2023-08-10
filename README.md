@@ -8,9 +8,9 @@ SQL Server with row level acccess. User A can see data from China, user B from U
 
 
 
-PowerBI table with row level access 
+PowerBI table with row level security
 ![powerbi_table](https://github.com/EugeneZakharchenko/PowerBI_datawarehouse/assets/110230661/b699015e-292e-487c-8783-1c0b65714566)
 
 
-Now user A can build visualization using his data access
+Now user A can build visualization based on his row level access
 ![Screenshot 2023-08-10 135959](https://github.com/EugeneZakharchenko/PowerBI_datawarehouse/assets/110230661/3b0cf412-7ddc-48ad-b3ed-ef0879f4de32)
