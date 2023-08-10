@@ -12,5 +12,5 @@ PowerBI table with row level access
 ![powerbi_table](https://github.com/EugeneZakharchenko/PowerBI_datawarehouse/assets/110230661/b699015e-292e-487c-8783-1c0b65714566)
 
 
-Now we user A can build visualization using his data access
+Now user A can build visualization using his data access
 ![Screenshot 2023-08-10 135959](https://github.com/EugeneZakharchenko/PowerBI_datawarehouse/assets/110230661/3b0cf412-7ddc-48ad-b3ed-ef0879f4de32)
